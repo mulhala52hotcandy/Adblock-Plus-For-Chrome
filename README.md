@@ -212,4 +212,4 @@ Adblock Plus for Chrome is the complete free version, offering all features and 
 Take control of your web experience—download Adblock Plus for Chrome today!
 
 ---
-**Last updated:** 2026-09-26 10:42:31 UTC
+**Last updated:** 2026-09-26 14:51:13 UTC
